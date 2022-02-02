@@ -2,13 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-/*
-seif eldin mahmoud ibrahim 6773 group 3
-farah moustafa 6888 group 2
-asala ahmed 6916  group2
-nadine ayman 7130 group 4
-zahraa elhareedy 6895 group 1
-*/
+
 typedef struct
 {
     int day,month,year;
